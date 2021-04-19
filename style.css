@@ -214,3 +214,11 @@
   .solar #solarIcon {
     display: block;
   }
+
+  canvas {
+    border: 1px solid black;
+  }
+
+  .Application{
+    border: red;
+  }
