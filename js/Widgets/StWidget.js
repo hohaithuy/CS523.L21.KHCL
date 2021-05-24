@@ -260,7 +260,7 @@ var ST = function(){
           currentState["status"]="if value["+left+"]&lt;value["+right+"] return"+ left+" else return "+ right; 
           break;
         case 1:
-          currentState["status"]="if value["+left+"]&rt;value["+right+"] return"+ left+" else return "+ right; 
+          currentState["status"]="if value["+left+"]&gt;value["+right+"] return"+ left+" else return "+ right; 
           break;
         case 2:
           currentState["status"] = "return " + treefuncname + "(" + left + "," + right + ") = " + ans;
@@ -377,7 +377,7 @@ var ST = function(){
           currentState["status"]="if value["+internalSt[root*2]["value"]+"]&lt;value["+internalSt[root*2+1]["value"]+"] this ="+ internalSt[root*2]["value"]+" else this = "+ internalSt[root*2+1]["value"]; 
           break;
         case 1:
-          currentState["status"]="if value["+internalSt[root*2]["value"]+"]&rt;value["+internalSt[root*2+1]["value"]+"] this ="+ internalSt[root*2]["value"]+" else this = "+ internalSt[root*2+1]["value"];
+          currentState["status"]="if value["+internalSt[root*2]["value"]+"]&gt;value["+internalSt[root*2+1]["value"]+"] this ="+ internalSt[root*2]["value"]+" else this = "+ internalSt[root*2+1]["value"];
           break;
         case 2:
           currentState["status"] = "Set this to " + treefuncname + "(" + internalSt[root*2]["value"] + ", " + internalSt[root*2+1]["value"] + ") = " + internalSt[root]["value"];
@@ -598,10 +598,10 @@ var ST = function(){
       document.getElementById('code4').innerHTML = '&nbspbuild right_child, (L+R)/2+1, R';
     switch (treetype){
       case 0:
-        document.getElementById('code5').innerHTML="if value[left_child]&lt;value[right_child] <br>this = left_child else this = right_child"; 
+        document.getElementById('code5').innerHTML="if value[left_child]&lt;value[right_child] <br>this = value[left_child] <br>else this = value[right_child]"; 
         break;
       case 1:
-        document.getElementById('code5').innerHTML="if value[left_child]&rt;value[right_child] <br>this = left_child else this = right_child"; 
+        document.getElementById('code5').innerHTML="if value[left_child]&gt;value[right_child] <br>this = value[left_child] <br>else this = value[right_child]"; 
         break;
       case 2:
         document.getElementById('code5').innerHTML="this = sum(value[left_child],value[right_child])"; 
@@ -618,10 +618,10 @@ var ST = function(){
       document.getElementById('code5').innerHTML = '&nbspRMQ at right_child, (L+R)/2+1, R';
     switch (treetype){
       case 0:
-        document.getElementById('code6').innerHTML="if value[left_child]&lt;value[right_child] <br>return left_child else return right_child"; 
+        document.getElementById('code6').innerHTML="if value[left_child]&lt;value[right_child] <br>return value[left_child] <br>else return value[right_child]"; 
         break;
       case 1:
-        document.getElementById('code6').innerHTML="if value[left_child]&rt;value[right_child] <br>return left_child else return right_child"; 
+        document.getElementById('code6').innerHTML="if value[left_child]&gt;value[right_child] <br>return value[left_child] <br>else return value[right_child]"; 
         break;
       case 2:
         document.getElementById('code6').innerHTML="return sum(value[left_child],value[right_child])"; 
@@ -636,10 +636,10 @@ var ST = function(){
       document.getElementById('code5').innerHTML = '&nbspupdate at right_child, (L+R)/2+1, R';
     switch (treetype){
       case 0:
-        document.getElementById('code6').innerHTML="if value[left_child]&lt;value[right_child] <br>this = left_child else this = right_child"; 
+        document.getElementById('code6').innerHTML="if value[left_child]&lt;value[right_child] <br>this = value[left_child] <br>else this = value[right_child]"; 
         break;
       case 1:
-        document.getElementById('code6').innerHTML="if value[left_child]&rt;value[right_child] <br>this = left_child else this = right_child"; 
+        document.getElementById('code6').innerHTML="if value[left_child]&gt;value[right_child] <br>this = value[left_child] <br>else this = right_child"; 
         break;
       case 2:
         document.getElementById('code6').innerHTML="this = sum(value[left_child],value[right_child])"; 
