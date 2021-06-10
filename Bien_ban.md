@@ -2,23 +2,17 @@
 
 ### 23/3/2021
 
----
-
 - Tạo repo github và invite: <Thủy>
 
 ---
 
 ### 28 - 29/3/2021
 
----
-
 - Thử tạo Demo: <Thủy>
 
 ---
 
 ### 1/4/2021
-
-----
 
 - Phân công:
   - Hồ Hải Thủy: Hoàn thành nội dung, Demo, cung cấp tài liệu tham khảo
@@ -40,8 +34,6 @@
 
 ### 12/4/2021
 
----
-
 - Tiến trình:
   - Nội dung: 
     - Khi nào sử dụng cây phân đoạn: <Toàn> 
@@ -55,8 +47,6 @@
 
 ### 13/4/2021
 
----
-
 - Tiến trình:
   - Nội dung:
     - Đặt vấn đề: <Thủy>
@@ -66,8 +56,6 @@
 ---
 
 ### 15/4/2021
-
----
 
 - Tiến trình:
 - Nội dung: 
@@ -80,8 +68,6 @@
 
 ### 16/4/2021
 
----
-
 - Tiến trình:
   - Nội dung: 
     - Cây phân đoạn là gì: <Thủy>
@@ -89,8 +75,6 @@
 ---
 
 ### 17/4/2021
-
----
 
 - Phân công:
   - Nội dung: Bổ sung thêm các ứng dụng nâng cao
@@ -103,8 +87,6 @@
 ---
 
 ### 18/4/2021
-
----
 
 - Tiến trình:
   - Nội dung: 
@@ -119,8 +101,6 @@
 ---
 
 ### 19/4/2021
-
----
 
 - Tiến trình:
 
@@ -147,15 +127,11 @@
 
 ### 20/4/2021
 
----
-
 - Sườn Demo đầu tiên: <Thủy>
 
 ---
 
 ### 6/5/2021
-
----
 
 - Tiến trình:
   - Nội dung: 
@@ -167,8 +143,6 @@
 
 ### 10/5/2021
 
----
-
 - Tiến trình:
   - Nội dung: 
     - Sửa lại thuyết trình: <Thủy, Toàn> 
@@ -176,8 +150,6 @@
 ---
 
 ### 11/5/2021
-
----
 
 - Tiến trình:
   - Nội dung: 
@@ -190,15 +162,11 @@
 
 ### 17/5/2021
 
----
-
 - Họp sửa thuyết trình: <Thủy, Toàn>
 
 ---
 
 ### 20/5/2021
-
----
 
 - Tiến trình:
   - Nội dung: 
@@ -210,8 +178,6 @@
 
 ### 21/5/2021
 
----
-
 - Demo: Fix thành công <Thủy>
 - Họp xem demo, tập thuyết trình: <Thủy, Toàn>
 
@@ -219,15 +185,11 @@
 
 ### 22/5/2021
 
----
-
 - Họp tập thuyết trình lần 2: <Thủy, Toàn>
 
 ---
 
 ### 23/5/2021
-
----
 
 - Họp tập thuyết trình lần 3: <Thủy, Toàn>
 
@@ -235,15 +197,11 @@
 
 ### 24/5/2021
 
----
-
 - Họp tập thuyết trình lần 4: <Thủy, Toàn>
 
 ---
 
 ### 25/5/2021
-
----
 
 - Thuyết trình: <Thủy, Toàn>
 
