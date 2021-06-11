@@ -219,3 +219,8 @@
 
 - Thêm báo cáo thuyết trình: <Thủy>
 
+### 11/6/2021
+
+- Sửa pdf phần thuyết trình của mình: <Toàn, Thủy>
+
+
