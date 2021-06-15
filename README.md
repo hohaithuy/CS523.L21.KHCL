@@ -28,7 +28,7 @@ Nhóm cấu trúc dữ liệu và giải thuật nâng cao lớp CS523.L21.KHCL 
   - Cập nhật nhiều phần tử với độ phức tạp O(logn).
 
   ![image](https://drive.google.com/uc?export=view&id=1XbUtXN5iPPz6FqbH53vxZqsTR-7B5dD3)
-  https://drive.google.com/file/d/1XbUtXN5iPPz6FqbH53vxZqsTR-7B5dD3/view?usp=sharing
+
   
 - Link demo: [🎮 Try our project here](https://taolaobd.github.io/CS523.L21.KHCL/)
 + Trên demo góc bên phải sẽ có một phần tutorial model, 
