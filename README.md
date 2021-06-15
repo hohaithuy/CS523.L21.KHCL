@@ -13,7 +13,8 @@ Nhóm cấu trúc dữ liệu và giải thuật nâng cao lớp CS523.L21.KHCL 
 ### 2. Build
 ### 3. Query
 ### 4. Update
-![image](https://drive.google.com/uc?export=view&id=<1dlfnL8ZWD9mjU_JudZVJBl1kqOuaWLnM>)
+https://drive.google.com/file/d/1dlfnL8ZWD9mjU_JudZVJBl1kqOuaWLnM/view?usp=sharing
+![image](https://drive.google.com/uc?export=view&id=1dlfnL8ZWD9mjU_JudZVJBl1kqOuaWLnM)
   ![alt text](https://drive.google.com/file/d/1dlfnL8ZWD9mjU_JudZVJBl1kqOuaWLnM/view?usp=sharing)
 ### 5. Kỹ thuật nâng cao
 #### 5.1 Lan truyền lười biếng
