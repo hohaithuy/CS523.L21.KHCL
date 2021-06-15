@@ -17,7 +17,8 @@ Nhóm cấu trúc dữ liệu và giải thuật nâng cao lớp CS523.L21.KHCL 
 #### 5.1 Lan truyền lười biếng
 Ý tưởng:
   - Cách hoạt động giống như lúc truy vấn. Ta không cập nhật toàn bộ node mà chỉ cập nhật những node quản lý đoạn nằm gọn trong yêu cầu, và node con của nó được bỏ qua(cập nhật sau nếu cần)
-  - ![alt text](http://vanchuyenchomeo.com/wp-content/uploads/2020/04/M%C3%88O-M%E1%BA%B8-B%E1%BB%8E-CON.jpg).
+  - Cập nhật nhiều phần tử với độ phức tạp O(logn).
+  
 
 - Link demo: [🎮 Try our project here](https://taolaobd.github.io/CS523.L21.KHCL/)
 + Trên demo góc bên phải sẽ có một phần tutorial model, 
